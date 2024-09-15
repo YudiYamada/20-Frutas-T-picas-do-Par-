@@ -4,13 +4,11 @@
 
 Criar uma página com cartinhas informativas sobre frutas típicas do estado do Pará.
 
-## [Vizualize o projeto clicando aqui](https://yudiyamada.github.io/landing-page-com-grid/) ##
+## [Vizualize o projeto clicando aqui](https://yudiyamada.github.io/20-frutas-tipicas-do-para/) ##
 
 ## Tecnologias utilizadas
 
-- !HTML5
-- !CSS3
-- !JavaScript
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 ## Minhas considerações sobre o desafio
 
