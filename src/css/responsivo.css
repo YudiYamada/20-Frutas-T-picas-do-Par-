@@ -18,3 +18,25 @@
         height: 480px;
     }
 }
+
+@media(max-width: 420px){
+    .cabecalho{
+        text-align: center;
+        padding: 30px 0;
+    }
+
+    .cabecalho h1{
+        font-size: 25px;
+        letter-spacing: 10px;
+    }
+
+    .cartao .nome{
+        padding: 4px 5px;
+        letter-spacing: 0px;
+        font-size: 20px;
+    }
+
+    .frutas-slider{
+        gap: 20px;
+    }
+}
